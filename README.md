@@ -1,6 +1,5 @@
-# Resume template
-
-*A simple Jekyll + GitHub Pages powered resume template.*
+# Dasom's resume
+https://ujutokki.github.io/resume/
 
 ![img](images/screenshot.png)
 
