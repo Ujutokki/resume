@@ -2,17 +2,20 @@
 # SW Engineer
 - company: Samsung Electronics
   position: Sowftware Engineer
-  duration: Sept, 2018 &mdash; Present
-  summary: Write about your core competencies in one or two sentences describing your position. If you held the position for a long time, it could be a longer section, including a couple bullet points	<ul class="resume-item-list"><li>A project you are proud of</li><li>Another awesome project</li><li>or a team or department you worked with</li></ul>
+  duration: Apr, 2018 &mdash; Present
+  summary: AI R&D Group<ul class="resume-item-list"><li>Development of pipeline for serving ML model for classification. (CircleCI, Docker, Kubeflow) </li><li>Development of a dashboard for tracking model performance (ELK)</li><li>Optimize NL model </li></ul>
+  position: Sowftware Engineer
+  duration: Apr, 2018 &mdash; Present
+  summary: AI R&D Group<ul class="resume-item-list"><li>Development of pipeline for serving ML model for classification. (CircleCI, Docker, Kubeflow) </li><li>Development of a dashboard for tracking model performance (ELK)</li><li>Optimize NL model </li></ul>
 
 # HW Engineer
 - company: Samsung Electronics
   position: Hardware Engineer
-  duration:  July, 2016 &mdash; Sept, 2018
-  summary: If your stint was shorter, feel free to be brief and just call out the most meaningful points of your role. Be concise, and be meaninful. The person reading just needs enough to want to talk to you more about your experience.
+  duration:  July, 2016 &mdash; Apr, 2018
+  summary: Health Sensor R&D Group
 
 # Communications Coordinator
-- company: Springfield Women & Children's Center
-  position: Communications Coordinator
-  duration:   Jun, 2008  &mdash; May, 2010
+- company: Ybrain
+  position: Researcher
+  duration:   Sep, 2013  &mdash; Sep, 2015
   summary: Led communication efforts across digital and traditional media channels for marketing and public relations, internal communication strategies, and coordinated support programs for the recipients of the center's services.
