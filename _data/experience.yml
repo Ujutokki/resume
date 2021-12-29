@@ -3,7 +3,7 @@
 - company: Samsung Electronics
   position: Sowftware Engineer
   duration: Jul, 2016 &mdash; Present
-  summary: AI R&D Group<ul class="resume-item-list"><li>Development of pipeline for serving ML model for classification. (CircleCI, Docker, Kubeflow)</li><li>Development of a dashboard for tracking model performance (ELK)</li><li>Optimize NL model.</li></ul>AI R&D Group<ul class="resume-item-list"><li>Development of distance measurment algorithm based on speech signal power. Accuracy +20% (MATLAB) </li><li>Data processing for end-point detection model</li></ul>Health Sensor R&D Group<ul class="resume-item-list"><li>Optimize and validate healthcare sensor. (Matlab, Staticstics)</li><li>Optimize NL model</li></ul>
+  summary: AI R&D Group / NLU Engnine Part<ul class="resume-item-list"><li>Development of pipeline for serving ML model for classification. (CircleCI, Docker, Kubeflow)</li><li>Development of a dashboard for tracking model performance (ELK)</li><li>Optimize NL model.</li></ul>AI R&D Group / Speech Preprocessing Part<ul class="resume-item-list"><li>Development of distance measurment algorithm based on speech signal power. Accuracy +20% (MATLAB) </li><li>Data processing for end-point detection model</li></ul>Health Sensor R&D Group<ul class="resume-item-list"><li>Optimize and validate healthcare sensor. (Matlab, Staticstics)</li><li>Optimize NL model</li></ul>
 
 # Communications Coordinator
 - company: Ybrain
