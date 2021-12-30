@@ -15,12 +15,12 @@
 
 //  Korean font
 @font-face {
-	font-family: 'Gothic A1';
-	src: url('https://fonts.googleapis.com/css2?family=Gothic+A1&family=Nanum+Gothic:wght@700&display=swap');
-	font-weight: 700;
+	font-family: 'NotoSansKR';
+	src: url('/_assets/NotoSansKR-Light.otf');
+	font-weight: 300;
 	font-style: normal;
 }
 
 body {
-	font-family: 'Gothic A1';
+	font-family: 'NotoSansKR';
 }
