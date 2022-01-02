@@ -26,11 +26,17 @@ body {
 }
 
 // rounded highlight
-.tt_article_useless_p_margin > li > b {
+.rounded_highlight > li > b{
 	padding: 1px 3px;
 	border-radius: 5px;
 	font-weight: bold;
 	color: rgba(0, 0, 0, 0.8);
+}
+
+.skill{
 	background-color: rgba(255, 230, 0, 0.616);
-  }
+}
+.domain{
+	background-color: rgba(102, 255, 0, 0.555);
+}
   
