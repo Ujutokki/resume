@@ -16,9 +16,9 @@
 //  Korean font
 @font-face {
 	font-family: 'NotoSansKR';
-	src: url('../_assets/NotoSansKR-Light.eot'),
-	     url('../_assets/NotoSansKR-Light.woff') format('woff'),
-             url('../_assets/NotoSansKR-Light.ttf') format('truetype');
+	src: url('/assets/NotoSansKR-Light.eot'),
+	     url('/assets/NotoSansKR-Light.woff') format('woff'),
+         url('/assets/NotoSansKR-Light.ttf') format('truetype');
 	font-weight: 300;
 	font-style: normal;
 }
