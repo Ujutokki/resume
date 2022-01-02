@@ -43,5 +43,8 @@ body {
 // Apply inline between title and duration
 h3, h4 {
 	display: flex;
-	justify-content: space-between;
+}
+
+h3 {
+	flex-grow: 1;
 }
