@@ -16,7 +16,7 @@
 //  Korean font
 @font-face {
 	font-family: 'NotoSansKR';
-	src: url('/resume/fonts/NotoSansKR-Light.woff') format('woff');
+	src: url('/resume/fonts/NanumGothic.woff') format('woff');
 	font-weight: 300;
 	font-style: normal;
 }
@@ -28,7 +28,7 @@ body {
 // rounded highlight
 .rounded_highlight > li > b{
 	padding: 1px 3px;
-	border-radius: 15px;
+	border-radius: 22px;
 	font-weight: bold;
 	color: rgba(48, 48, 48, 0.8);
 }
