@@ -62,7 +62,10 @@
         <div class="resume-item" itemscope itemprop="worksFor" itemtype="http://schema.org/Organization">
           <div class="links">
             <h3 class="resume-item-title" itemprop="name">{{ job.company }}</h3>
+            <!-- original line 
             <h4 class="resume-item-details" itemprop="description">{{ job.position }} &bull; {{ job.duration }}</h4>
+            -->
+            <h4 class="resume-item-details" itemprop="description">{{ job.position }}</h4>
           </div>
           <p class="resume-item-copy">{{ job.summary }}</p>
         </div><!-- end of resume-item -->
