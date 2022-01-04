@@ -6,12 +6,11 @@
   role: Project Member
   duration: 2012 &mdash; 2012
   # url: "#"
-  description: <ul class="resume-item-list"><li>배양된 신경세포의 신호 분석을 위한 시각화 툴 개발</li></ul>
+  description: 배양된 신경세포의 신호 분석을 위한 시각화 툴을 개발하였습니다.
 
 # Springfield Community Outreach Group
 - project: MRI Simulator on Android App
   role: Project Member
   duration: 2013 &mdash; 2013
   # url: "#"
-  description: <ul class="resume-item-list"><li>MR Image의 변수값에 대한 변화 정도를 시뮬레이션하는 앱 개발</li><li>MR Image Processing 라이브러리 개발을 담당</li></ul>
-
+  description: MR Image의 변수값에 대한 변화 정도를 시뮬레이션하는 앱을 개발하는 프로젝트에서, matlab을 이용한 MR Image Processing 라이브러리 개발을 담당하였습니다.
