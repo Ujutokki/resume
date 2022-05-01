@@ -1,6 +1,6 @@
 # Site settings
 title: "Dasom Kim Resume"
-description: "A resume template for Jekyll and GitHub Pages sites."
+description: "Dasom Kim Resume"
 
 # Build settings
 markdown: kramdown
@@ -11,19 +11,21 @@ sass:
 # Resume settings
 resume_avatar:                  "true"
 resume_name:                    "Dasom Kim"
-resume_title:                   "ML Engineer"
+#resume_title:                   "MLOps Engineer"
+resume_title:                   "크래프톤 MLOps Engineer"
 
 # used for the contact button in _layouts/resume.html
 resume_contact_email:           "dasom.ruby.kim@gmail.com"
 
 # the next two items are used for schema itemprops in _layouts/resume.html
-resume_contact_telephone:       "010-1434-9478"
+resume_contact_telephone:       "010-2661-9478"
 resume_contact_address:         "Yeongtong-gu, Suwon, South Korea"
 
 resume_header_contact_info:     "010-2661-9478 • dasom.ruby.kim@gmail.com"
 display_header_contact_info:    "true"
 
-resume_header_intro: "문제 해결능력, 빠른 습득이 장점인 ML 개발자 입니다. Data와 Statistics에 기반한 평가 방법 설계, 모델 최적화에 자신이 있습니다."
+#resume_header_intro: "문제 해결능력, 빠른 습득이 장점인 ML 개발자 입니다. Data와 Statistics에 기반한 평가 방법 설계, 모델 최적화에 자신이 있습니다."
+resume_header_intro: "Audio 도메인지식 + Voice AI서비스 개발 경험을 모두 갖춘 ML개발자 입니다. ML모델을 평가하고 반영하기 위한 파이프라인 개발 경험이 있으며, 최근에는 AWS서비스를 이용한 ML서비스의 운영 업무를 맡아 수행 중입니다. 저는 새로운 것을 배우는 것을 좋아하며 문제 해결능력, 빠른 습득능력이 장점이라고 생각합니다. 좀 더 책임감 있게 일할 수 있고 도전적인 업무를 경험해보고 싶어 지원하였습니다:)"
 
 # use "yes" to display the email contact button,
 # "no" to display an "I'm not looking for work" message,
